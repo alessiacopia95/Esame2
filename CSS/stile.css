@@ -1,0 +1,128 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+    
+}
+nav.beige ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    background-color: #E9D9CA;
+    gap: 50px;
+}
+nav.beige a {
+    display: block;
+    color: black;
+    text-decoration: none;
+    font-size:xx-large;
+    padding: 14px 16px;
+}
+h1{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+   
+}
+div.blocco{
+max-width: 100%;
+text-align: center;
+   
+}
+    h2{
+     color: black;
+    font-size: 40px;
+    text-align:left;
+   margin-left: 4%;
+    padding: 14px ;
+   
+    }
+    div.blocco1{
+    color: black;
+    font-size: 27px;
+    
+    text-align: left;
+    margin-right:37%;
+    margin-left: 5%;
+
+
+    }
+
+    
+
+    h3{
+        color: black;
+        font-size: 27px;
+        text-align:left;
+       margin-right: 10%;
+      
+
+    }
+    div.blocco2{
+        color: black;
+        font-size: 30px;
+        padding: 30px 30px;
+        text-align:justify;
+        margin-right: 50%;
+        margin-top: 5%;
+        
+
+    }
+
+    div.blocco3{
+        color: black;
+        font-size: 27px;
+       text-align:justify;
+        margin-right: 0%;
+      
+      
+    }
+        
+    div.blocco2 img{
+        max-width: 80%;
+        margin: left 50%; 
+        display: flex;
+        padding-left: 100%;
+
+
+    }
+div.blocco3 img{
+    max-width: 50%;
+    margin: left 50%; 
+    display: flex;
+    padding-left: 100%;  
+    margin-bottom: 5%;  
+
+}
+
+div.bloccox {
+    color: black;
+        font-size: 27px;
+        padding: 30px 30px;
+        text-align:justify;
+        margin-right: 50%;
+        margin-top: 5%;
+        margin-left: 3%;
+   
+}
+
+div.bloccox img{
+    max-width: 50%;
+    margin: left 50%; 
+    display: flex;
+    padding-left: 20%;  
+    margin-bottom: 5%;  
+
+}
+
+
+
+   footer{
+    background-color: #E9D9CA;
+    padding: 10px 10px;
+    font-size: 20px;
+   }
+  
+    
+    
+   
